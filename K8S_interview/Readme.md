@@ -1,0 +1,1 @@
+- All the k8s related shortcuts and interview questions
