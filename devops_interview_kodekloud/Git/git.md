@@ -12,4 +12,4 @@
 ## What is Branch protection in Github?
 - Suppose dev is working on a feature branch and he makes commit to the master branch, we have to make sure the master is protected so that code is not accepted with an PR raised for merge request.
 - got to settings > branches > branch protection rules > Add rule (required PR before merging)
-- IF we dont do the setup then anyone can merge something to the master branch
+- IF we dont do the setup then anyone can merge something to the master branch.
